@@ -16,7 +16,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prdsilva80&layout=compact)](https://github.com/Prdsilva80/github-readme-stats)
 
-Apaixonado pro tecnologia, educação, transição de carreira.
+Apaixonado por tecnologia, educação, transição de carreira.
+Cursando Análise e desenvolvimento de Sistemas, na Universidade Anhanguera Educacional(EaD)
 
 ## Contato
 
