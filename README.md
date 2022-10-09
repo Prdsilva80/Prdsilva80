@@ -21,4 +21,4 @@ Cursando Análise e desenvolvimento de Sistemas, na Universidade Anhanguera Educ
 
 ## Contato
 
-- probertos717@gmail.com
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](probertos717@gmail.com)
