@@ -15,6 +15,10 @@
 <a href = "mailto:probertos717@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 
 ![Prdsilva80 GitHub stats](https://github-readme-stats.vercel.app/api?username=Prdsilva80&theme=onedark)
+ <div align = "">
+<a href="https://git.io/streak-stats">
+  <img height="198em" src="https://github-readme-streak-stats.herokuapp.com/?user=Prdsilva80&theme=onedark"/> 
+</div>
 
 ## Tecnologias que mais uso
 
