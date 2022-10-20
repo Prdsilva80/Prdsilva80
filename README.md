@@ -1,4 +1,10 @@
-### Olá! Eu sou o Paulo Roberto 👋
+### Olá! Eu sou o Paulo Roberto
+
+<div>
+ <h3 align="left">
+     Bem vindo(a) ao meu GitHub!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+ </h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-roberto-da-silva-099275231/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5519983382067)
