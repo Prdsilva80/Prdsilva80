@@ -36,10 +36,10 @@ Fazendo cursos adicionais na Rocketseat (Trilha Discover), Udemy (Algoritimos e 
 
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Prdsilva80&theme=tokyo-night&hide_border=true">
 <br><br>
-<img align="left" height="310px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prdsilva80&langs_count=8&theme=tokyonight&hide_border=true">
+<img align="left" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prdsilva80&langs_count=8&theme=tokyonight&hide_border=true">
 <div align="right">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=Prdsilva80&show_icons=true&custom_title=Prdsilva80's%20Github%20Stats&theme=tokyonight&hide_border=true">
-<img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Prdsilva80&theme=tokyonight&hide_border=true">
+<img height="160px" src="https://github-readme-stats.vercel.app/api?username=Prdsilva80&show_icons=true&custom_title=Prdsilva80's%20Github%20Stats&theme=tokyonight&hide_border=true">
+<img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=Prdsilva80&theme=tokyonight&hide_border=true">
 </div>
   
   
