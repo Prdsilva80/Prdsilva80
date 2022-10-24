@@ -1,17 +1,18 @@
-### Olá! Eu sou o Paulo Roberto
-Apaixonado por tecnologia, educação, transição de carreira.
-Cursando Análise e Desenvolvimento de Sistemas, na Universidade Anhanguera Educacional(EaD).<br/>
-Fazendo cursos adicionais na Rocketseat (Trilha Discover), Udemy (Algoritimos e Logica de Programação, Bancos de dados Relacionais SQL)
-
 <div>
  <h3 align="left">
      Bem vindo(a) ao meu GitHub!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
  </h3>
- 
- <p align="center">
+
+### Eu sou o Paulo Roberto,
+<p align="center">
       <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor%20Front-End!;Sempre%20Aprendendo%20coisas%20novas!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
     </p>
+Apaixonado por tecnologia, educação, transição de carreira.
+Cursando Análise e Desenvolvimento de Sistemas, na Universidade Anhanguera Educacional(EaD).<br/>
+Fazendo cursos adicionais na Rocketseat (Trilha Discover), Udemy (Algoritimos e Logica de Programação, Bancos de dados Relacionais SQL)
+
+
  
  ---
  
@@ -45,7 +46,7 @@ Fazendo cursos adicionais na Rocketseat (Trilha Discover), Udemy (Algoritimos e 
   
   ---
 
-  ## Tecnologias para aprender
+  ## Tecnologias que quero aprender
   
   
 
