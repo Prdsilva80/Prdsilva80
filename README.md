@@ -29,7 +29,7 @@ Fazendo cursos adicionais na Rocketseat (Trilha Discover), Udemy (Algoritimos e 
  
  ---
  
- ## Tecnologias que mais uso e/ou já usei+estatísticas
+ ## Tecnologias que mais uso ou já usei e estatísticas
  
  [![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,git,github,figma,vercel)](https://skillicons.dev)
 
