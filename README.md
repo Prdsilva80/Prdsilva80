@@ -31,22 +31,221 @@ Fazendo cursos adicionais na Rocketseat (Trilha Discover), Udemy (Algoritimos e 
  
  ## Tecnologias que mais uso ou já usei e estatísticas
  
- [![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,git,github,figma,vercel)](https://skillicons.dev)
-
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Prdsilva80&theme=tokyo-night&hide_border=true">
-<br><br>
-<img align="left" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prdsilva80&langs_count=8&theme=tokyonight&hide_border=true">
-<div align="right">
-<img height="160px" src="https://github-readme-stats.vercel.app/api?username=Prdsilva80&show_icons=true&custom_title=Prdsilva80's%20Github%20Stats&theme=tokyonight&hide_border=true">
-<img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=Prdsilva80&theme=tokyonight&hide_border=true">
-</div>
+ <img align="left" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prdsilva80&langs_count=8&theme=tokyonight&hide_border=true">
+ 
+<table align="right" height="279px">
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/86276393/195136732-47fe1df9-2591-445a-bfac-fe540315f2a5.svg" width="65px" alt="windows icon"/><br>
+      <sub>
+        <b>
+          <pre>Windows</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/><br>
+      <sub>
+        <b>
+          <pre>VSCode</pre>
+        </b>
+      </sub>
+    </td>
+        <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br>
+      <sub>
+        <b>
+          <pre>HTML5</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br>
+      <sub>
+        <b>
+          <pre>&emsp;CSS3&emsp;</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+  <tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="Javascript icon"/><br>
+      <sub>
+        <b>
+          <pre>JavaScript</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br>
+      <sub>
+        <b>
+          <pre>GIT</pre>
+        </b>
+      </sub>
+    </td>
+   <td align="center">
+      <img src="https://skillicons.dev/icons?i=github" width="65px" alt="Github icon"/><br>
+      <sub>
+        <b>
+          <pre>GitHub</pre>
+        </b>
+      </sub>
+    </td>
+   <td align="center">
+      <img src="https://skillicons.dev/icons?i=figma" width="65px" alt="Figma icon"/><br>
+      <sub>
+        <b>
+          <pre>&emsp;Figma&emsp;</pre>
+        </b>
+      </sub>
+    </td>
+   <tr>
+</table>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
   
   
   ---
 
   ## Tecnologias que quero aprender
   
-  [![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,tailwind,bootstrap,mysql,angular,vite,vue,nextjs,c,cs,cpp,py,windicss,java&perline=4)](https://skillicons.dev)
+  <table align="left" height="279px">
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="typescrit icon"/><br>
+      <sub>
+        <b>
+          <pre>Typescript</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="65px" alt="react js icon"/><br>
+      <sub>
+        <b>
+          <pre>ReactJs</pre>
+        </b>
+      </sub>
+    </td>
+        <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="node js icon"/><br>
+      <sub>
+        <b>
+          <pre>NodeJs</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="65px" alt="tailwind icon"/><br>
+      <sub>
+        <b>
+          <pre>&emsp;Tailwind&emsp;</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+  <tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=windicss" width="65px" alt="windicss icon"/><br>
+      <sub>
+        <b>
+          <pre>WindiCss</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="bootstrap icon"/><br>
+      <sub>
+        <b>
+          <pre>Bootstrap</pre>
+        </b>
+      </sub>
+    </td>
+   <td align="center">
+      <img src="https://skillicons.dev/icons?i=vue" width="65px" alt="vue icon"/><br>
+      <sub>
+        <b>
+          <pre>Vue</pre>
+        </b>
+      </sub>
+    </td>
+   <td align="center">
+      <img src="https://skillicons.dev/icons?i=angular" width="65px" alt="angular icon"/><br>
+      <sub>
+        <b>
+          <pre>&emsp;Angular&emsp;</pre>
+        </b>
+      </sub>
+    </td>
+    <tr>
+    <tr>
+   <td align="center">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="65px" alt="next js icon"/><br>
+      <sub>
+        <b>
+          <pre>NextJs</pre>
+        </b>
+      </sub>
+    </td>
+      <td align="center">
+      <img src="https://skillicons.dev/icons?i=vite" width="65px" alt="vite icon"/><br>
+      <sub>
+        <b>
+          <pre>Vite</pre>
+        </b>
+      </sub>
+    </td>
+      <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="mysql icon"/><br>
+      <sub>
+        <b>
+          <pre>MySql</pre>
+        </b>
+      </sub>
+    </td>
+      <td align="center">
+      <img src="https://skillicons.dev/icons?i=c" width="65px" alt="c icon"/><br>
+      <sub>
+        <b>
+          <pre>&emsp;C&emsp;</pre>
+        </b>
+      </sub>
+    </td>
+     <tr>
+     <tr> 
+      <td align="center">
+      <img src="https://skillicons.dev/icons?i=cs" width="65px" alt="cs icon"/><br>
+      <sub>
+        <b>
+          <pre>CSharp</pre>
+        </b>
+      </sub>
+    </td>
+      <td align="center">
+      <img src="https://skillicons.dev/icons?i=cpp" width="65px" alt="cpp icon"/><br>
+      <sub>
+        <b>
+          <pre>C++</pre>
+        </b>
+      </sub>
+    </td>
+      <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" width="65px" alt="python icon"/><br>
+      <sub>
+        <b>
+          <pre>Python</pre>
+        </b>
+      </sub>
+    </td>
+      <td align="center">
+      <img src="https://skillicons.dev/icons?i=java" width="65px" alt="java icon"/><br>
+      <sub>
+        <b>
+          <pre>Java</pre>
+        </b>
+      </sub>
+    </td>
+</table>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
   
-  ![Snake animation](https://github.com/Prdsilva80/Prdsilva80/blob/output/github-contribution-grid-snake.svg)
-</div><br/>
