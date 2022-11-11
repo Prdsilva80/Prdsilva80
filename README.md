@@ -109,9 +109,6 @@ Fazendo cursos adicionais na Rocketseat (Trilha Discover), Udemy (Algoritimos e 
  ## Minhas Estatisticas
  
  ![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prdsilva80&show_icons=true&theme=radical)
- 
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prdsilva80&langs_count=8)](https://github.com/Prdsilva80/github-readme-stats)
   
   
   ---
