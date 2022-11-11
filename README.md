@@ -31,8 +31,7 @@ Fazendo cursos adicionais na Rocketseat (Trilha Discover), Udemy (Algoritimos e 
  
  ## Tecnologias e ferramentas que mais uso
  
- <div class="ez-resource-show__preview__image ez-resource-show__preview__image--placeholder">
-  <div class="placeholder-anim"></div>
+ <img src="https://www.cross-media.es/wp-content/uploads/2020/05/Full-Stack-Developer-FB-L-3.png" align="left" width=520 alt>
  
 <table align="right" height="279px">
     <td align="center">
@@ -105,13 +104,21 @@ Fazendo cursos adicionais na Rocketseat (Trilha Discover), Udemy (Algoritimos e 
    <tr>
 </table>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+ 
+ 
+ ## Minhas Estatisticas
+ 
+ ![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prdsilva80&show_icons=true&theme=radical)
+ 
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prdsilva80&langs_count=8)](https://github.com/Prdsilva80/github-readme-stats)
   
   
   ---
 
   ## Tecnologias que quero aprender
  
- <img src="https://www.cross-media.es/wp-content/uploads/2020/05/Full-Stack-Developer-FB-L-3.png" align="right" width=520 alt>
+ <img src="https://m2up.com.br/wp-content/uploads/2020/04/aprender-mkt-digital-edit-1024x538.png" align="right" width="520">
   
   <table align="left" height="279px">
     <td align="center">
