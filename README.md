@@ -31,7 +31,7 @@ Fazendo cursos adicionais na Rocketseat (Trilha Discover), Udemy (Algoritimos e 
  
  ## Tecnologias e ferramentas que mais uso
  
- <img src="https://www.cross-media.es/wp-content/uploads/2020/05/Full-Stack-Developer-FB-L-3.png" align="left" width=480 alt>
+ <img src="https://www.cross-media.es/wp-content/uploads/2020/05/Full-Stack-Developer-FB-L-3.png" align="left" width=440 alt>
  
 <table align="right" height="279px">
     <td align="center">
@@ -118,7 +118,7 @@ Fazendo cursos adicionais na Rocketseat (Trilha Discover), Udemy (Algoritimos e 
 
   ## Tecnologias que quero aprender
  
- <img src="https://m2up.com.br/wp-content/uploads/2020/04/aprender-mkt-digital-edit-1024x538.png" align="right" width="480">
+ <img src="https://m2up.com.br/wp-content/uploads/2020/04/aprender-mkt-digital-edit-1024x538.png" align="right" width="440">
   
   <table align="left" height="279px">
     <td align="center">
