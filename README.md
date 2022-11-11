@@ -29,9 +29,10 @@ Fazendo cursos adicionais na Rocketseat (Trilha Discover), Udemy (Algoritimos e 
  
  ---
  
- ## Tecnologias que mais uso ou já usei e estatísticas
+ ## Tecnologias e ferramentas que mais uso
  
- <img align="left" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prdsilva80&langs_count=8&theme=tokyonight&hide_border=true">
+ <div class="ez-resource-show__preview__image ez-resource-show__preview__image--placeholder">
+  <div class="placeholder-anim"></div>
  
 <table align="right" height="279px">
     <td align="center">
@@ -109,6 +110,8 @@ Fazendo cursos adicionais na Rocketseat (Trilha Discover), Udemy (Algoritimos e 
   ---
 
   ## Tecnologias que quero aprender
+ 
+ <img src="https://www.cross-media.es/wp-content/uploads/2020/05/Full-Stack-Developer-FB-L-3.png" align="right" width=520 alt>
   
   <table align="left" height="279px">
     <td align="center">
