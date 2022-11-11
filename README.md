@@ -104,9 +104,8 @@ Fazendo cursos adicionais na Rocketseat (Trilha Discover), Udemy (Algoritimos e 
    <tr>
 </table>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-  
-  
-  ---
+ 
+ ---
 
   ## Tecnologias que quero aprender
  
