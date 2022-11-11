@@ -26,6 +26,7 @@ Fazendo cursos adicionais na Rocketseat (Trilha Discover), Udemy (Algoritimos e 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@mePaulod44#1956/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5519983382067)
 <a href = "mailto:probertos717@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+[![Curriculum](https://img.shields.io/badge/Curr%C3%ADculo-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white)]
  
  ---
  
