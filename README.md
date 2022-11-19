@@ -1,7 +1,7 @@
 <div>
+ <align="left"><img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="28"/>
  <h3 align="left">
      Bem vindo(a) ao meu GitHub!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
  </h3>
 
 ### Eu sou o Paulo Roberto,
