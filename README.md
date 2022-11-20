@@ -30,7 +30,7 @@ Fazendo cursos adicionais na Rocketseat (Trilha Discover), Udemy (Algoritimos e 
  
  ---
  
- ## Tecnologias e ferramentas que mais uso
+ ## Tecnologias e ferramentas que mais uso e que já tive contato
  
  <img src="https://www.cross-media.es/wp-content/uploads/2020/05/Full-Stack-Developer-FB-L-3.png" align="left" width="360">
  
@@ -103,6 +103,38 @@ Fazendo cursos adicionais na Rocketseat (Trilha Discover), Udemy (Algoritimos e 
       </sub>
     </td>
    <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/null/npm.png" width="65px" alt="Npm icon"/><br>
+      <sub>
+        <b>
+          <pre>NPM</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vite" width="65px" alt="Vite icon"/><br>
+      <sub>
+        <b>
+          <pre>Vite</pre>
+        </b>
+      </sub>
+    </td>
+   <td align="center">
+      <img src="https://skillicons.dev/icons?i=bash" width="65px" alt="Bash icon"/><br>
+      <sub>
+        <b>
+          <pre>Bash</pre>
+        </b>
+      </sub>
+    </td>
+   <td align="center">
+      <img src="https://skillicons.dev/icons?i=md" width="65px" alt="Markdown icon"/><br>
+      <sub>
+        <b>
+          <pre>&emsp;Markdown&emsp;</pre>
+        </b>
+      </sub>
+    </td>
 </table>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
  
