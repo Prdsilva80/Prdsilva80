@@ -112,10 +112,10 @@ Fazendo cursos adicionais na Rocketseat (Trilha Discover), Udemy (Algoritimos e 
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=vite" width="65px" alt="Vite icon"/><br>
+      <img src="https://skillicons.dev/icons?i=vercel" width="65px" alt="Vercel icon"/><br>
       <sub>
         <b>
-          <pre>Vite</pre>
+          <pre>Vercel</pre>
         </b>
       </sub>
     </td>
@@ -289,4 +289,9 @@ Fazendo cursos adicionais na Rocketseat (Trilha Discover), Udemy (Algoritimos e 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prdsilva80&langs_count=8&theme=onedark&hide_border=true">
 <img src="https://github-readme-stats.vercel.app/api?username=Prdsilva80&show_icons=true&theme=onedark">
+ 
+ ---
+ 
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&text=Calmo&nbsp;e&nbsp;Focado&fontColor=c9c9c9&fontAlign=5&fontSize=10&fontAlignY=90&color=0:ffffff,100:999999&height=120&section=footer"/>
+
   
