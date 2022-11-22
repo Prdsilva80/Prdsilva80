@@ -10,7 +10,7 @@
     </p>
 Apaixonado por tecnologia, educação, transição de carreira.
 Cursando Análise e Desenvolvimento de Sistemas, na Universidade Anhanguera Educacional(EaD).<br/>
-Fazendo cursos adicionais na Rocketseat (Trilha Discover), Udemy (Algoritimos e Logica de Programação, Bancos de dados Relacionais SQL)
+Fazendo cursos adicionais na Rocketseat (Trilha Explorer), Udemy (Algoritimos e Logica de Programação, Bancos de dados Relacionais SQL)
 
 
  
