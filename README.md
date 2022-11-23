@@ -287,8 +287,41 @@ Fazendo cursos adicionais na Rocketseat (Trilha Explorer), Udemy (Algoritimos e 
 
 ## Minhas Estatísticas
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prdsilva80&langs_count=8&theme=onedark&hide_border=true">
-<img src="https://github-readme-stats.vercel.app/api?username=Prdsilva80&show_icons=true&theme=onedark">
+<table>
+<tr>
+<td align="center">
+  <a href="https://github.com/Prdsilva80#gh-light-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=Prdsilva80&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="Minhas Estatísticas"/>
+  </a>
+
+  <a href="https://github.com/Prdsilva80#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=Prdsilva80&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="Minhas Estatísticas"/>
+  </a>
+</td>
+
+<td rowspan="2" align="center">
+  <a href="https://github.com/Prdsilva80#gh-light-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prdsilva80&theme=default&langs_count=8#gh-light-mode-only" alt="Minhas Estatísticas"/>
+  </a>
+
+  <a href="https://github.com/Prdsilva80#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prdsilva80&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="Minhas Estatísticas"/>
+  </a>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+  <a href="https://github.com/Prdsilva80#gh-light-mode-only">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prdsilva80&theme=default"/>
+  </a>
+
+  <a href="https://github.com/Prdsilva80#gh-dark-mode-only">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prdsilva80&theme=tokyonight"/>
+  </a>
+</td>
+</tr>
+</table>
  
  ---
  
