@@ -142,7 +142,7 @@ Fazendo cursos adicionais na Rocketseat (Trilha Explorer), Udemy (Algoritimos e 
 
   ## Tecnologias e frameworks que quero aprender
  
- <img src="https://m2up.com.br/wp-content/uploads/2020/04/aprender-mkt-digital-edit-1024x538.png" align="right" width="400" height="280">
+ <img src="https://m2up.com.br/wp-content/uploads/2020/04/aprender-mkt-digital-edit-1024x538.png" align="right" width="380" height="280">
   
   <table align="left" height="279px">
     <td align="center">
