@@ -6,11 +6,11 @@
 
 ### Eu sou o Paulo Roberto,
 <p align="center">
-      <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor%20Front-End!;Sempre%20Aprendendo%20coisas%20novas!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+      <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor%20Full-Stack%20Jr.!;Sempre%20Aprendendo%20coisas%20novas!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
     </p>
 Apaixonado por tecnologia, educação, transição de carreira.
 Cursando Análise e Desenvolvimento de Sistemas, na Universidade Anhanguera Educacional(EaD).<br/>
-Fazendo cursos adicionais na Rocketseat (Trilha Explorer), Udemy (Algoritimos e Logica de Programação, Bancos de dados Relacionais SQL)
+Fazendo cursos adicionais na Rocketseat (Trilha Explorer), Udemy (JavaScript, MySql, React.Js)
 
 
  
@@ -32,7 +32,7 @@ Fazendo cursos adicionais na Rocketseat (Trilha Explorer), Udemy (Algoritimos e 
  
  ## Tecnologias e ferramentas que mais uso e que já tive contato
  
- <img src="https://www.cross-media.es/wp-content/uploads/2020/05/Full-Stack-Developer-FB-L-3.png" align="left" width="400" height="280">
+ <img src="https://www.cross-media.es/wp-content/uploads/2020/05/Full-Stack-Developer-FB-L-3.png" align="left" width="400">
  
 <table align="right" height="279px">
     <td align="center">
@@ -142,7 +142,7 @@ Fazendo cursos adicionais na Rocketseat (Trilha Explorer), Udemy (Algoritimos e 
 
   ## Tecnologias e frameworks que quero aprender
  
- <img src="https://m2up.com.br/wp-content/uploads/2020/04/aprender-mkt-digital-edit-1024x538.png" align="right" width="380" height="280">
+ <img src="https://m2up.com.br/wp-content/uploads/2020/04/aprender-mkt-digital-edit-1024x538.png" align="right" width="400">
   
   <table align="left" height="279px">
     <td align="center">
