@@ -9,8 +9,8 @@
       <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor%20Full-Stack%20;Sempre%20Aprendendo%20coisas%20novas!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
     </p>
 Apaixonado por tecnologia, educação, transição de carreira.
-Cursando Análise e Desenvolvimento de Sistemas, na Universidade Anhanguera Educacional(EaD).<br/>
-Fazendo cursos adicionais na Rocketseat (Trilha Explorer), Udemy (JavaScript, MySql, React.Js)
+Cursando Análise e Desenvolvimento de Sistemas.<br/>
+FullStack Developer.
 
 
  
@@ -95,46 +95,48 @@ Fazendo cursos adicionais na Rocketseat (Trilha Explorer), Udemy (JavaScript, My
       </sub>
     </td>
    <td align="center">
-      <img src="https://skillicons.dev/icons?i=figma" width="65px" alt="Figma icon"/><br>
+      <img src="https://skillicons.dev/icons?i=spring" width="65px" alt="Spring icon"/><br>
       <sub>
         <b>
-          <pre>&emsp;Figma&emsp;</pre>
+          <pre>&emsp;Spring&emsp;</pre>
         </b>
       </sub>
     </td>
    <tr>
+   <tr>
     <td align="center">
-      <img src="https://img.icons8.com/color/48/null/npm.png" width="65px" alt="Npm icon"/><br>
+      <img src="https://skillicons.dev/icons?i=react" width="65px" alt="ReactJs icon"/><br>
       <sub>
         <b>
-          <pre>NPM</pre>
+          <pre>ReactJs</pre>
         </b>
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=vercel" width="65px" alt="Vercel icon"/><br>
+      <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="NodeJs icon"/><br>
       <sub>
         <b>
-          <pre>Vercel</pre>
+          <pre>NodeJs</pre>
         </b>
       </sub>
     </td>
    <td align="center">
-      <img src="https://skillicons.dev/icons?i=bash" width="65px" alt="Bash icon"/><br>
+      <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="TypeScrip icon"/><br>
       <sub>
         <b>
-          <pre>Bash</pre>
+          <pre>TypeScrip</pre>
         </b>
       </sub>
     </td>
    <td align="center">
-      <img src="https://skillicons.dev/icons?i=md" width="65px" alt="Markdown icon"/><br>
+      <img src="https://skillicons.dev/icons?i=java" width="65px" alt="Java icon"/><br>
       <sub>
         <b>
-          <pre>&emsp;Markdown&emsp;</pre>
+          <pre>&emsp;Java&emsp;</pre>
         </b>
       </sub>
     </td>
+    <tr>
 </table>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
  
@@ -146,34 +148,34 @@ Fazendo cursos adicionais na Rocketseat (Trilha Explorer), Udemy (JavaScript, My
   
   <table align="left" height="279px">
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="typescrit icon"/><br>
+      <img src="https://skillicons.dev/icons?i=python" width="65px" alt="Python icon"/><br>
       <sub>
         <b>
-          <pre>Typescript</pre>
+          <pre>Python</pre>
         </b>
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="65px" alt="react js icon"/><br>
+      <img src="https://skillicons.dev/icons?i=c" width="65px" alt="C icon"/><br>
       <sub>
         <b>
-          <pre>ReactJs</pre>
+          <pre>C</pre>
         </b>
       </sub>
     </td>
         <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="node js icon"/><br>
+      <img src="https://skillicons.dev/icons?i=cpp" width="65px" alt="CPP icon"/><br>
       <sub>
         <b>
-          <pre>NodeJs</pre>
+          <pre>C++</pre>
         </b>
       </sub>
     </td>
     <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="65px" alt="tailwind icon"/><br>
+      <img src="https://skillicons.dev/icons?i=cs" width="65px" alt=CS" icon"/><br>
       <sub>
         <b>
-          <pre>&emsp;Tailwind&emsp;</pre>
+          <pre>&emsp;CSharp&emsp;</pre>
         </b>
       </sub>
     </td>
@@ -181,105 +183,39 @@ Fazendo cursos adicionais na Rocketseat (Trilha Explorer), Udemy (JavaScript, My
   <tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=windicss" width="65px" alt="windicss icon"/><br>
+      <img src="https://skillicons.dev/icons?i=angular" width="65px" alt="Angular icon"/><br>
       <sub>
         <b>
-          <pre>WindiCss</pre>
+          <pre>Angular</pre>
         </b>
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="bootstrap icon"/><br>
-      <sub>
-        <b>
-          <pre>Bootstrap</pre>
-        </b>
-      </sub>
-    </td>
-   <td align="center">
-      <img src="https://skillicons.dev/icons?i=vue" width="65px" alt="vue icon"/><br>
-      <sub>
-        <b>
-          <pre>Vue</pre>
-        </b>
-      </sub>
-    </td>
-   <td align="center">
-      <img src="https://skillicons.dev/icons?i=angular" width="65px" alt="angular icon"/><br>
-      <sub>
-        <b>
-          <pre>&emsp;Angular&emsp;</pre>
-        </b>
-      </sub>
-    </td>
-    <tr>
-    <tr>
-   <td align="center">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="65px" alt="next js icon"/><br>
-      <sub>
-        <b>
-          <pre>NextJs</pre>
-        </b>
-      </sub>
-    </td>
-      <td align="center">
-      <img src="https://skillicons.dev/icons?i=vite" width="65px" alt="vite icon"/><br>
-      <sub>
-        <b>
-          <pre>Vite</pre>
-        </b>
-      </sub>
-    </td>
-      <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="mysql icon"/><br>
+      <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="MySql icon"/><br>
       <sub>
         <b>
           <pre>MySql</pre>
         </b>
       </sub>
     </td>
-      <td align="center">
-      <img src="https://skillicons.dev/icons?i=c" width="65px" alt="c icon"/><br>
+   <td align="center">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="65px" alt="NextJs icon"/><br>
       <sub>
         <b>
-          <pre>&emsp;C&emsp;</pre>
+          <pre>NextJs</pre>
         </b>
       </sub>
     </td>
-     <tr>
-     <tr> 
-      <td align="center">
-      <img src="https://skillicons.dev/icons?i=cs" width="65px" alt="cs icon"/><br>
+   <td align="center">
+      <img src="https://skillicons.dev/icons?i=nestjs" width="65px" alt="NestJs icon"/><br>
       <sub>
         <b>
-          <pre>CSharp</pre>
+          <pre>&emsp;NestJs&emsp;</pre>
         </b>
       </sub>
     </td>
-      <td align="center">
-      <img src="https://skillicons.dev/icons?i=cpp" width="65px" alt="cpp icon"/><br>
-      <sub>
-        <b>
-          <pre>C++</pre>
-        </b>
-      </sub>
-    </td>
-      <td align="center">
-      <img src="https://skillicons.dev/icons?i=python" width="65px" alt="python icon"/><br>
-      <sub>
-        <b>
-          <pre>Python</pre>
-        </b>
-      </sub>
-    </td>
-      <td align="center">
-      <img src="https://skillicons.dev/icons?i=java" width="65px" alt="java icon"/><br>
-      <sub>
-        <b>
-          <pre>Java</pre>
-        </b>
-      </sub>
-    </td>
+    <tr>
+    <tr>
 </table>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
