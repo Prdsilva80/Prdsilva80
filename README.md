@@ -8,7 +8,7 @@
 <p align="center">
       <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor%20Full-Stack%20;Sempre%20Aprendendo%20coisas%20novas!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
     </p>
-Sou uma pessoa apaixonada por tecnologia, imersa no fascinante mundo do desenvolvimento pessoal e fervorosamente dedicada ao empreendedorismo. Minha jornada é guiada pela curiosidade incessante, sempre explorando as fronteiras da inovação tecnológica. Busco constantemente aprimorar minhas habilidades, mergulhando em novas linguagens de programação e ferramentas que impulsionam o progresso digital. Empreender não é apenas uma escolha, mas uma vocação que abraço com entusiasmo, encarando desafios como oportunidades de crescimento. Neste caminho, encontro a sinergia entre meu amor pela tecnologia, a busca pelo autodesenvolvimento e a paixão por criar impacto por meio de empreendimentos inovadores.
+Dedicada à inovação tecnológica, minha jornada é guiada pela curiosidade incessante. Busco constantemente aprimorar minhas habilidades, mergulhando em novas linguagens de programação e ferramentas que impulsionam o progresso digital. Encaro desafios como oportunidades de crescimento, encontrando sinergia entre meu amor pela tecnologia, a busca pelo autodesenvolvimento e a paixão por criar impacto por meio de projetos inovadores.
 
 
  
