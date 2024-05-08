@@ -26,11 +26,10 @@ Dedicada à inovação tecnológica, minha jornada é guiada pela curiosidade in
  
  ---
  
- ## Tecnologias e ferramentas que mais uso e que já tive contato
+ ## Tecnologias e ferramentas que mais uso.
+ <br><br><br>
  
- <img src="https://www.cross-media.es/wp-content/uploads/2020/05/Full-Stack-Developer-FB-L-3.png" align="left" width="400">
- 
-<table align="right" height="279px">
+<table align="center" height="490px">
     <td align="center">
       <img src="https://user-images.githubusercontent.com/86276393/195136732-47fe1df9-2591-445a-bfac-fe540315f2a5.svg" width="65px" alt="windows icon"/><br>
       <sub>
@@ -75,39 +74,31 @@ Dedicada à inovação tecnológica, minha jornada é guiada pela curiosidade in
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=git" width="65px" alt="Git icon"/><br>
-      <sub>
-        <b>
-          <pre>GIT</pre>
-        </b>
-      </sub>
-    </td>
-   <td align="center">
-      <img src="https://skillicons.dev/icons?i=github" width="65px" alt="Github icon"/><br>
-      <sub>
-        <b>
-          <pre>GitHub</pre>
-        </b>
-      </sub>
-    </td>
-   <td align="center">
-      <img src="https://skillicons.dev/icons?i=spring" width="65px" alt="Spring icon"/><br>
-      <sub>
-        <b>
-          <pre>&emsp;Spring&emsp;</pre>
-        </b>
-      </sub>
-    </td>
-   <tr>
-   <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="65px" alt="ReactJs icon"/><br>
+      <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React icon"/><br>
       <sub>
         <b>
           <pre>ReactJs</pre>
         </b>
       </sub>
     </td>
+   <td align="center">
+      <img src="https://skillicons.dev/icons?i=vite" width="65px" alt="Vite icon"/><br>
+      <sub>
+        <b>
+          <pre>ViteJs</pre>
+        </b>
+      </sub>
+    </td>
+   <td align="center">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="65px" alt="Nextjs icon"/><br>
+      <sub>
+        <b>
+          <pre>&emsp;NextJs&emsp;</pre>
+        </b>
+      </sub>
+    </td>
+   <tr>
+   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="NodeJs icon"/><br>
       <sub>
@@ -116,33 +107,6 @@ Dedicada à inovação tecnológica, minha jornada é guiada pela curiosidade in
         </b>
       </sub>
     </td>
-   <td align="center">
-      <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="TypeScrip icon"/><br>
-      <sub>
-        <b>
-          <pre>TypeScrip</pre>
-        </b>
-      </sub>
-    </td>
-   <td align="center">
-      <img src="https://skillicons.dev/icons?i=java" width="65px" alt="Java icon"/><br>
-      <sub>
-        <b>
-          <pre>&emsp;Java&emsp;</pre>
-        </b>
-      </sub>
-    </td>
-    <tr>
-</table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
- 
- ---
-
-  ## Tecnologias e frameworks que quero aprender
- 
- <img src="https://m2up.com.br/wp-content/uploads/2020/04/aprender-mkt-digital-edit-1024x538.png" align="right" width="380">
-  
-  <table align="left" height="279px">
     <td align="center">
       <img src="https://skillicons.dev/icons?i=python" width="65px" alt="Python icon"/><br>
       <sub>
@@ -151,71 +115,27 @@ Dedicada à inovação tecnológica, minha jornada é guiada pela curiosidade in
         </b>
       </sub>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=c" width="65px" alt="C icon"/><br>
+   <td align="center">
+      <img src="https://skillicons.dev/icons?i=flask" width="65px" alt="Flask icon"/><br>
       <sub>
         <b>
-          <pre>C</pre>
-        </b>
-      </sub>
-    </td>
-        <td align="center">
-      <img src="https://skillicons.dev/icons?i=cpp" width="65px" alt="CPP icon"/><br>
-      <sub>
-        <b>
-          <pre>C++</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=cs" width="65px" alt=CS" icon"/><br>
-      <sub>
-        <b>
-          <pre>&emsp;CSharp&emsp;</pre>
-        </b>
-      </sub>
-    </td>
-  </tr>
-  <tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=angular" width="65px" alt="Angular icon"/><br>
-      <sub>
-        <b>
-          <pre>Angular</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="MySql icon"/><br>
-      <sub>
-        <b>
-          <pre>MySql</pre>
+          <pre>Flask</pre>
         </b>
       </sub>
     </td>
    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="65px" alt="NextJs icon"/><br>
+      <img src="https://skillicons.dev/icons?i=django" width="65px" alt="Django icon"/><br>
       <sub>
         <b>
-          <pre>NextJs</pre>
+          <pre>&emsp;Django&emsp;</pre>
         </b>
       </sub>
     </td>
-   <td align="center">
-      <img src="https://skillicons.dev/icons?i=nestjs" width="65px" alt="NestJs icon"/><br>
-      <sub>
-        <b>
-          <pre>&emsp;NestJs&emsp;</pre>
-        </b>
-      </sub>
-    </td>
-    <tr>
     <tr>
 </table>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
----
+<br><br>
+ 
+ ---
 
 ## Minhas Estatísticas
 
