@@ -34,7 +34,7 @@ Dedicada à inovação tecnológica, minha jornada é guiada pela curiosidade in
       <img src="https://skillicons.dev/icons?i=wordpress" width="65px" alt="wordpress icon"/><br>
       <sub>
         <b>
-          <pre>Windows</pre>
+          <pre>WordPress</pre>
         </b>
       </sub>
     </td>
