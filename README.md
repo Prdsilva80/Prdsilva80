@@ -31,7 +31,7 @@ Dedicada à inovação tecnológica, minha jornada é guiada pela curiosidade in
  
 <table align="center" height="490px">
     <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/195136732-47fe1df9-2591-445a-bfac-fe540315f2a5.svg" width="65px" alt="windows icon"/><br>
+      <img src="https://skillicons.dev/icons?i=wordpress" width="65px" alt="wordpress icon"/><br>
       <sub>
         <b>
           <pre>Windows</pre>
