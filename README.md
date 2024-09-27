@@ -17,11 +17,6 @@ Dedicada à inovação tecnológica, minha jornada é guiada pela curiosidade in
 
  ### Contato 
  
- <p><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="150px" max-width="150px" width="150px" position="center" alt="Computador Code"></p>
- 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-roberto-da-silva-099275231/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@mePaulod44#1956/)
 <a href = "mailto:probertos717@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
  
  ---
@@ -31,34 +26,34 @@ Dedicada à inovação tecnológica, minha jornada é guiada pela curiosidade in
  
 <table align="center" height="490px">
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=wordpress" width="65px" alt="wordpress icon"/><br>
+      <img src="https://skillicons.dev/icons?i=react" width="65px" alt="reactjs icon"/><br>
       <sub>
         <b>
-          <pre>WordPress</pre>
+          <pre>ReactJs</pre>
         </b>
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/><br>
+      <img src="https://skillicons.dev/icons?i=nextjs" width="65px" alt="nextjs icon"/><br>
       <sub>
         <b>
-          <pre>VSCode</pre>
+          <pre>NextJs</pre>
         </b>
       </sub>
     </td>
         <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br>
+      <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="typescript icon"/><br>
       <sub>
         <b>
-          <pre>HTML5</pre>
+          <pre>Typescript</pre>
         </b>
       </sub>
     </td>
     <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br>
+      <img src="https://skillicons.dev/icons?i=tailwind" width="65px" alt="tailwind icon"/><br>
       <sub>
         <b>
-          <pre>&emsp;CSS3&emsp;</pre>
+          <pre>&emsp;Tailwind&emsp;</pre>
         </b>
       </sub>
     </td>
@@ -66,41 +61,7 @@ Dedicada à inovação tecnológica, minha jornada é guiada pela curiosidade in
   <tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="Javascript icon"/><br>
-      <sub>
-        <b>
-          <pre>JavaScript</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React icon"/><br>
-      <sub>
-        <b>
-          <pre>ReactJs</pre>
-        </b>
-      </sub>
-    </td>
-   <td align="center">
-      <img src="https://skillicons.dev/icons?i=vite" width="65px" alt="Vite icon"/><br>
-      <sub>
-        <b>
-          <pre>ViteJs</pre>
-        </b>
-      </sub>
-    </td>
-   <td align="center">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="65px" alt="Nextjs icon"/><br>
-      <sub>
-        <b>
-          <pre>&emsp;NextJs&emsp;</pre>
-        </b>
-      </sub>
-    </td>
-   <tr>
-   <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="NodeJs icon"/><br>
+      <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="nodejs icon"/><br>
       <sub>
         <b>
           <pre>NodeJs</pre>
@@ -108,7 +69,7 @@ Dedicada à inovação tecnológica, minha jornada é guiada pela curiosidade in
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=python" width="65px" alt="Python icon"/><br>
+      <img src="https://skillicons.dev/icons?i=python" width="65px" alt="python icon"/><br>
       <sub>
         <b>
           <pre>Python</pre>
@@ -116,64 +77,58 @@ Dedicada à inovação tecnológica, minha jornada é guiada pela curiosidade in
       </sub>
     </td>
    <td align="center">
-      <img src="https://skillicons.dev/icons?i=flask" width="65px" alt="Flask icon"/><br>
+      <img src="https://skillicons.dev/icons?i=go" width="65px" alt="go icon"/><br>
       <sub>
         <b>
-          <pre>Flask</pre>
+          <pre>GoLang</pre>
         </b>
       </sub>
     </td>
    <td align="center">
-      <img src="https://skillicons.dev/icons?i=django" width="65px" alt="Django icon"/><br>
+      <img src="https://skillicons.dev/icons?i=r" width="65px" alt="r icon"/><br>
       <sub>
         <b>
-          <pre>&emsp;Django&emsp;</pre>
+          <pre>&emsp;R&emsp;</pre>
+        </b>
+      </sub>
+    </td>
+   <tr>
+   <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nest" width="65px" alt="nest icon"/><br>
+      <sub>
+        <b>
+          <pre>Nest</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="mysql icon"/><br>
+      <sub>
+        <b>
+          <pre>MySql</pre>
+        </b>
+      </sub>
+    </td>
+   <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgresql" width="65px" alt="postgresql icon"/><br>
+      <sub>
+        <b>
+          <pre>PostgreSql</pre>
+        </b>
+      </sub>
+    </td>
+   <td align="center">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="65px" alt="mongodb icon"/><br>
+      <sub>
+        <b>
+          <pre>&emsp;MongoDb&emsp;</pre>
         </b>
       </sub>
     </td>
     <tr>
 </table>
 <br><br>
- 
- ---
-
-## Minhas Estatísticas
-
-<table>
-<tr>
-<td align="center">
-  <a href="https://github.com/Prdsilva80#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api?username=Prdsilva80&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="Minhas Estatísticas"/>
-  </a>
-
-  <a href="https://github.com/Prdsilva80#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api?username=Prdsilva80&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="Minhas Estatísticas"/>
-  </a>
-</td>
-
-<td rowspan="2" align="center">
-  <a href="https://github.com/Prdsilva80#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prdsilva80&theme=default&langs_count=8#gh-light-mode-only" alt="Minhas Estatísticas"/>
-  </a>
-
-  <a href="https://github.com/Prdsilva80#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prdsilva80&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="Minhas Estatísticas"/>
-  </a>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-  <a href="https://github.com/Prdsilva80#gh-light-mode-only">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prdsilva80&theme=default"/>
-  </a>
-
-  <a href="https://github.com/Prdsilva80#gh-dark-mode-only">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prdsilva80&theme=tokyonight"/>
-  </a>
-</td>
-</tr>
-</table>
  
  ---
  
