@@ -134,7 +134,7 @@ Dedicada à inovação tecnológica, minha jornada é guiada pela curiosidade in
 
  ## Estatísticas 
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prdsilva80&layout=compact)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prdsilva80&layout=compact&hide=html,css)
 
 ---
  
