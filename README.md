@@ -131,6 +131,12 @@ Dedicada à inovação tecnológica, minha jornada é guiada pela curiosidade in
 <br><br>
  
  ---
+
+ ## Estatísticas 
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prdsilva80&layout=compact)
+
+---
  
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&text=Calmo&nbsp;e&nbsp;Focado&fontColor=c9c9c9&fontAlign=5&fontSize=10&fontAlignY=90&color=0:ffffff,100:999999&height=120&section=footer"/>
 
