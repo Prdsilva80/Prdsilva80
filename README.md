@@ -6,9 +6,11 @@
 
 ### Eu sou o Paulo Roberto,
 <p align="center">
-      <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor%20Full-Stack%20;Sempre%20Aprendendo%20coisas%20novas!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+      <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor%20Back-end%20Pleno%20;Sempre%20Aprendendo%20coisas%20novas!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
     </p>
-Dedicada à inovação tecnológica, minha jornada é guiada pela curiosidade incessante. Busco constantemente aprimorar minhas habilidades, mergulhando em novas linguagens de programação e ferramentas que impulsionam o progresso digital. Encaro desafios como oportunidades de crescimento, encontrando sinergia entre meu amor pela tecnologia, a busca pelo autodesenvolvimento e a paixão por criar impacto por meio de projetos inovadores.
+Sou desenvolvedor back-end pleno, dedicado à inovação tecnológica e guiado por uma curiosidade incessante. Com uma sólida experiência em Python, Flask, Django, FastAPI, assim como em JavaScript, TypeScript, Node.js e Golang, tenho competência para entregar soluções robustas e eficientes. Além disso, utilizo a linguagem R para análise de dados massiva e trabalho com diversos bancos de dados, como PostgreSQL, MySQL e MongoDB. Vejo desafios como oportunidades de crescimento, buscando constantemente aprimorar minhas habilidades e criar impacto por meio de projetos inovadores que impulsionam o progresso digital.
+
+
 
 
  
@@ -26,49 +28,6 @@ Dedicada à inovação tecnológica, minha jornada é guiada pela curiosidade in
  
 <table align="center" height="490px">
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="65px" alt="reactjs icon"/><br>
-      <sub>
-        <b>
-          <pre>ReactJs</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="65px" alt="nextjs icon"/><br>
-      <sub>
-        <b>
-          <pre>NextJs</pre>
-        </b>
-      </sub>
-    </td>
-        <td align="center">
-      <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="typescript icon"/><br>
-      <sub>
-        <b>
-          <pre>Typescript</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="65px" alt="tailwind icon"/><br>
-      <sub>
-        <b>
-          <pre>&emsp;Tailwind&emsp;</pre>
-        </b>
-      </sub>
-    </td>
-  </tr>
-  <tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="nodejs icon"/><br>
-      <sub>
-        <b>
-          <pre>NodeJs</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
       <img src="https://skillicons.dev/icons?i=python" width="65px" alt="python icon"/><br>
       <sub>
         <b>
@@ -76,45 +35,88 @@ Dedicada à inovação tecnológica, minha jornada é guiada pela curiosidade in
         </b>
       </sub>
     </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=flask" width="65px" alt="flask icon"/><br>
+      <sub>
+        <b>
+          <pre>Flask</pre>
+        </b>
+      </sub>
+    </td>
+        <td align="center">
+      <img src="https://skillicons.dev/icons?i=django" width="65px" alt="django icon"/><br>
+      <sub>
+        <b>
+          <pre>Django</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="65px" alt="fastapi icon"/><br>
+      <sub>
+        <b>
+          <pre>&emsp;FastAPI&emsp;</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+  <tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="javascript icon"/><br>
+      <sub>
+        <b>
+          <pre>Javascript</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="typescript icon"/><br>
+      <sub>
+        <b>
+          <pre>Typescript</pre>
+        </b>
+      </sub>
+    </td>
+   <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="nodejs icon"/><br>
+      <sub>
+        <b>
+          <pre>Nodejs</pre>
+        </b>
+      </sub>
+    </td>
    <td align="center">
       <img src="https://skillicons.dev/icons?i=go" width="65px" alt="go icon"/><br>
       <sub>
         <b>
-          <pre>GoLang</pre>
+          <pre>&emsp;Golang&emsp;</pre>
         </b>
       </sub>
     </td>
-   <td align="center">
+   <tr>
+   <tr>
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=r" width="65px" alt="r icon"/><br>
       <sub>
         <b>
-          <pre>&emsp;R&emsp;</pre>
-        </b>
-      </sub>
-    </td>
-   <tr>
-   <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nest" width="65px" alt="nest icon"/><br>
-      <sub>
-        <b>
-          <pre>Nest</pre>
+          <pre>R</pre>
         </b>
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="mysql icon"/><br>
+      <img src="https://skillicons.dev/icons?i=postgresql" width="65px" alt="postgresql icon"/><br>
       <sub>
         <b>
-          <pre>MySql</pre>
+          <pre>PostgreSQL</pre>
         </b>
       </sub>
     </td>
    <td align="center">
-      <img src="https://skillicons.dev/icons?i=postgresql" width="65px" alt="postgresql icon"/><br>
+      <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="mysql icon"/><br>
       <sub>
         <b>
-          <pre>PostgreSql</pre>
+          <pre>MySQL</pre>
         </b>
       </sub>
     </td>
@@ -122,7 +124,7 @@ Dedicada à inovação tecnológica, minha jornada é guiada pela curiosidade in
       <img src="https://skillicons.dev/icons?i=mongodb" width="65px" alt="mongodb icon"/><br>
       <sub>
         <b>
-          <pre>&emsp;MongoDb&emsp;</pre>
+          <pre>&emsp;MongoDB&emsp;</pre>
         </b>
       </sub>
     </td>
