@@ -6,11 +6,13 @@
 
 ### Eu sou o Paulo Roberto,
 <p align="center">
-      <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor%20Full-Stack%20Pleno%20;Sempre%20Aprendendo%20coisas%20novas!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+      <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor%20Backend%20Pleno%20;Sempre%20Aprendendo%20coisas%20novas!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
     </p>
-Sou desenvolvedor full-stack pleno, apaixonado por inovação tecnológica e guiado por uma curiosidade incessante. Domino uma ampla gama de tecnologias modernas, incluindo React, Next.js, TypeScript, JavaScript, Tailwind CSS, Node.js, Python e Flask, o que me permite criar soluções completas e de alto desempenho para aplicações web e mobile. Minha expertise também abrange bancos de dados como PostgreSQL, MySQL e MongoDB, garantindo eficiência e escalabilidade nos projetos.
+Sou desenvolvedor backend pleno, apaixonado por inovação tecnológica e movido por uma curiosidade incessante. Domino uma ampla gama de tecnologias modernas, incluindo Python, Django, Flask, FastAPI, Node.js, JavaScript, TypeScript, Express e SQLAlchemy, além de ORMs como Prisma. Com essas ferramentas, sou capaz de criar soluções completas, escaláveis e de alto desempenho para aplicações backend.
 
-Tenho sólida experiência em construir interfaces intuitivas e dinâmicas, bem como arquiteturas backend robustas e seguras. Encaro desafios como oportunidades de crescimento e estou sempre em busca de aprimorar minhas habilidades para desenvolver projetos inovadores que impulsionem a transformação digital.
+Minha expertise também inclui bancos de dados como PostgreSQL e MySQL, garantindo eficiência e robustez em qualquer projeto. Tenho sólida experiência em projetar arquiteturas backend seguras e robustas, sempre focado em oferecer soluções inovadoras que atendam às necessidades dos clientes e usuários.
+
+Encaro cada desafio como uma oportunidade de aprendizado e evolução. Estou constantemente aprimorando minhas habilidades para desenvolver projetos que promovam a transformação digital e façam a diferença no mundo da tecnologia.
 
 
 
@@ -30,34 +32,34 @@ Tenho sólida experiência em construir interfaces intuitivas e dinâmicas, bem 
  
 <table align="center" height="490px">
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="65px" alt="react icon"/><br>
+      <img src="https://skillicons.dev/icons?i=python" width="65px" alt="python icon"/><br>
       <sub>
         <b>
-          <pre>React.Js</pre>
+          <pre>Python</pre>
         </b>
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="65px" alt="next icon"/><br>
+      <img src="https://skillicons.dev/icons?i=django" width="65px" alt="django icon"/><br>
       <sub>
         <b>
-          <pre>Next.Js</pre>
+          <pre>Django</pre>
         </b>
       </sub>
     </td>
         <td align="center">
-      <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="typescript icon"/><br>
+      <img src="https://skillicons.dev/icons?i=flask" width="65px" alt="flask icon"/><br>
       <sub>
         <b>
-          <pre>Typescript</pre>
+          <pre>Flask</pre>
         </b>
       </sub>
     </td>
     <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="javascript icon"/><br>
+      <img src="https://skillicons.dev/icons?i=fastapi" width="65px" alt="fastapi icon"/><br>
       <sub>
         <b>
-          <pre>&emsp;Javascript&emsp;</pre>
+          <pre>&emsp;FastAPI&emsp;</pre>
         </b>
       </sub>
     </td>
@@ -65,10 +67,44 @@ Tenho sólida experiência em construir interfaces intuitivas e dinâmicas, bem 
   <tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="65px" alt="tailwind icon"/><br>
+      <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="nodejs icon"/><br>
       <sub>
         <b>
-          <pre>TailwindCss</pre>
+          <pre>NodeJs</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="javascript icon"/><br>
+      <sub>
+        <b>
+          <pre>Javascript</pre>
+        </b>
+      </sub>
+    </td>
+   <td align="center">
+      <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="typescript icon"/><br>
+      <sub>
+        <b>
+          <pre>Typescript</pre>
+        </b>
+      </sub>
+    </td>
+   <td align="center">
+      <img src="https://skillicons.dev/icons?i=express" width="65px" alt="express icon"/><br>
+      <sub>
+        <b>
+          <pre>&emsp;Express&emsp;</pre>
+        </b>
+      </sub>
+    </td>
+   <tr>
+   <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=sqlalchemy" width="65px" alt="sqlalchemy icon"/><br>
+      <sub>
+        <b>
+          <pre>SQL Alchemy</pre>
         </b>
       </sub>
     </td>
@@ -81,32 +117,6 @@ Tenho sólida experiência em construir interfaces intuitivas e dinâmicas, bem 
       </sub>
     </td>
    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="nodejs icon"/><br>
-      <sub>
-        <b>
-          <pre>Nodejs</pre>
-        </b>
-      </sub>
-    </td>
-   <td align="center">
-      <img src="https://skillicons.dev/icons?i=python" width="65px" alt="python icon"/><br>
-      <sub>
-        <b>
-          <pre>&emsp;Python&emsp;</pre>
-        </b>
-      </sub>
-    </td>
-   <tr>
-   <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=flask" width="65px" alt="flask icon"/><br>
-      <sub>
-        <b>
-          <pre>Flask</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
       <img src="https://skillicons.dev/icons?i=postgresql" width="65px" alt="postgresql icon"/><br>
       <sub>
         <b>
@@ -118,15 +128,7 @@ Tenho sólida experiência em construir interfaces intuitivas e dinâmicas, bem 
       <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="mysql icon"/><br>
       <sub>
         <b>
-          <pre>MySQL</pre>
-        </b>
-      </sub>
-    </td>
-   <td align="center">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="65px" alt="mongodb icon"/><br>
-      <sub>
-        <b>
-          <pre>&emsp;MongoDB&emsp;</pre>
+          <pre>&emsp;MySQL&emsp;</pre>
         </b>
       </sub>
     </td>
