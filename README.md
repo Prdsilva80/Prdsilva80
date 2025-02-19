@@ -40,14 +40,6 @@ Encaro cada desafio como uma oportunidade de aprendizado e evolução. Estou con
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=django" width="65px" alt="django icon"/><br>
-      <sub>
-        <b>
-          <pre>Django</pre>
-        </b>
-      </sub>
-    </td>
-        <td align="center">
       <img src="https://skillicons.dev/icons?i=flask" width="65px" alt="flask icon"/><br>
       <sub>
         <b>
@@ -55,11 +47,19 @@ Encaro cada desafio como uma oportunidade de aprendizado e evolução. Estou con
         </b>
       </sub>
     </td>
-    <td align="center" width="100px;">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="65px" alt="fastapi icon"/><br>
+        <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="nodejs icon"/><br>
       <sub>
         <b>
-          <pre>&emsp;FastAPI&emsp;</pre>
+          <pre>Node.js</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center" width="100px;">
+      <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="javascript icon"/><br>
+      <sub>
+        <b>
+          <pre>&emsp;Javascript&emsp;</pre>
         </b>
       </sub>
     </td>
@@ -67,22 +67,6 @@ Encaro cada desafio como uma oportunidade de aprendizado e evolução. Estou con
   <tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="nodejs icon"/><br>
-      <sub>
-        <b>
-          <pre>NodeJs</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="javascript icon"/><br>
-      <sub>
-        <b>
-          <pre>Javascript</pre>
-        </b>
-      </sub>
-    </td>
-   <td align="center">
       <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="typescript icon"/><br>
       <sub>
         <b>
@@ -90,33 +74,33 @@ Encaro cada desafio como uma oportunidade de aprendizado e evolução. Estou con
         </b>
       </sub>
     </td>
-   <td align="center">
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=express" width="65px" alt="express icon"/><br>
       <sub>
         <b>
-          <pre>&emsp;Express&emsp;</pre>
-        </b>
-      </sub>
-    </td>
-   <tr>
-   <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=sqlalchemy" width="65px" alt="sqlalchemy icon"/><br>
-      <sub>
-        <b>
-          <pre>SQL Alchemy</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=prisma" width="65px" alt="prisma icon"/><br>
-      <sub>
-        <b>
-          <pre>Prisma ORM</pre>
+          <pre>Express</pre>
         </b>
       </sub>
     </td>
    <td align="center">
+      <img src="https://skillicons.dev/icons?i=jest" width="65px" alt="jest icon"/><br>
+      <sub>
+        <b>
+          <pre>Jest</pre>
+        </b>
+      </sub>
+    </td>
+   <td align="center">
+      <img src="https://skillicons.dev/icons?i=prisma" width="65px" alt="prisma icon"/><br>
+      <sub>
+        <b>
+          <pre>&emsp;Prisma ORM&emsp;</pre>
+        </b>
+      </sub>
+    </td>
+   <tr>
+   <tr>
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=postgresql" width="65px" alt="postgresql icon"/><br>
       <sub>
         <b>
@@ -124,11 +108,27 @@ Encaro cada desafio como uma oportunidade de aprendizado e evolução. Estou con
         </b>
       </sub>
     </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="65px" alt="sqlite icon"/><br>
+      <sub>
+        <b>
+          <pre>SQLite</pre>
+        </b>
+      </sub>
+    </td>
    <td align="center">
       <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="mysql icon"/><br>
       <sub>
         <b>
-          <pre>&emsp;MySQL&emsp;</pre>
+          <pre>MySQL</pre>
+        </b>
+      </sub>
+    </td>
+   <td align="center">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="65px" alt="mongodb icon"/><br>
+      <sub>
+        <b>
+          <pre>&emsp;MongoDB&emsp;</pre>
         </b>
       </sub>
     </td>
