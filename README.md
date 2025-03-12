@@ -1,33 +1,36 @@
 <div>
  <align="center"><img src="https://github.com/Prdsilva80/Prdsilva80/blob/main/code.gif" height="28"/>
  <h3 align="left">
-     Welcome to my GitHub!
+     Bem vindo(a) ao meu GitHub!
  </h3>
 
-### I am Paulo Roberto,
+### Eu sou o Paulo Roberto,
 <p align="center">
-      <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Mid-level%20Backend%20Developer%20;Always%20Learning%20New%20Things!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+      <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor%20Backend%20Pleno%20;Sempre%20Aprendendo%20coisas%20novas!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
     </p>
-I am a mid-level backend developer, passionate about technological innovation and driven by relentless curiosity. I master a wide range of modern technologies, including Python, Django, Flask, FastAPI, Node.js, JavaScript, TypeScript, Express, and SQLAlchemy, as well as ORMs like Prisma. With these tools, I can create complete, scalable, and high-performance backend solutions.
+Sou desenvolvedor backend pleno, apaixonado por inovação tecnológica e movido por uma curiosidade incessante. Domino uma ampla gama de tecnologias modernas, incluindo Python, Django, Flask, FastAPI, Node.js, JavaScript, TypeScript, Express e SQLAlchemy, além de ORMs como Prisma. Com essas ferramentas, sou capaz de criar soluções completas, escaláveis e de alto desempenho para aplicações backend.
 
-My expertise also includes databases such as PostgreSQL and MySQL, ensuring efficiency and robustness in any project. I have solid experience in designing secure and robust backend architectures, always focused on delivering innovative solutions that meet the needs of clients and users.
+Minha expertise também inclui bancos de dados como PostgreSQL e MySQL, garantindo eficiência e robustez em qualquer projeto. Tenho sólida experiência em projetar arquiteturas backend seguras e robustas, sempre focado em oferecer soluções inovadoras que atendam às necessidades dos clientes e usuários.
 
-I see every challenge as an opportunity for learning and growth. I am constantly improving my skills to develop projects that drive digital transformation and make a difference in the world of technology.
+Encaro cada desafio como uma oportunidade de aprendizado e evolução. Estou constantemente aprimorando minhas habilidades para desenvolver projetos que promovam a transformação digital e façam a diferença no mundo da tecnologia.
 
----
+
+
+
+ 
+ ---
  
 
-### Contact 
+ ### Contato 
  
 <a href = "mailto:probertos717@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
----
-
-## Technologies and tools I use the most.
-<br><br><br>
-
+ ---
+ 
+ ## Tecnologias e ferramentas que mais uso.
+ <br><br><br>
+ 
 <table align="center" height="490px">
-  <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=python" width="65px" alt="python icon"/><br>
       <sub>
@@ -44,7 +47,7 @@ I see every challenge as an opportunity for learning and growth. I am constantly
         </b>
       </sub>
     </td>
-    <td align="center">
+        <td align="center">
       <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="nodejs icon"/><br>
       <sub>
         <b>
@@ -56,11 +59,12 @@ I see every challenge as an opportunity for learning and growth. I am constantly
       <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="javascript icon"/><br>
       <sub>
         <b>
-          <pre>&emsp;JavaScript&emsp;</pre>
+          <pre>&emsp;Javascript&emsp;</pre>
         </b>
       </sub>
     </td>
   </tr>
+  <tr>
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="typescript icon"/><br>
@@ -70,5 +74,3 @@ I see every challenge as an opportunity for learning and growth. I am constantly
         </b>
       </sub>
     </td>
-  </tr>
-</table>
