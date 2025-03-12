@@ -1,27 +1,27 @@
 <div>  
  <align="center"><img src="https://github.com/Prdsilva80/Prdsilva80/blob/main/code.gif" height="28"/>  
  <h3 align="left">  
-     Bem vindo(a) ao meu GitHub!  
- </h3>  Eu sou o Paulo Roberto,
+     Welcome to my GitHub!  
+ </h3>  I am Paulo Roberto,
 
 <p align="center">  
-      <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor%20Backend%20Pleno%20;Sempre%20Aprendendo%20coisas%20novas!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>  
+      <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Backend%20Developer%20;Always%20Learning%20new%20things!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>  
     </p>  
-Sou desenvolvedor backend pleno, apaixonado por inovação tecnológica e movido por uma curiosidade incessante. Domino uma ampla gama de tecnologias modernas, incluindo Python, Django, Flask, FastAPI, Node.js, JavaScript, TypeScript, Express e SQLAlchemy, além de ORMs como Prisma. Com essas ferramentas, sou capaz de criar soluções completas, escaláveis e de alto desempenho para aplicações backend.  Minha expertise também inclui bancos de dados como PostgreSQL e MySQL, garantindo eficiência e robustez em qualquer projeto. Tenho sólida experiência em projetar arquiteturas backend seguras e robustas, sempre focado em oferecer soluções inovadoras que atendam às necessidades dos clientes e usuários.
+I am a full backend developer, passionate about technological innovation and driven by a relentless curiosity. I master a wide range of modern technologies, including Python, Django, Flask, FastAPI, Node.js, JavaScript, TypeScript, Express and SQLAlchemy, as well as ORMs like Prisma. With these tools, I am able to create complete, scalable and high-performance solutions for backend applications. My expertise also includes databases such as PostgreSQL and MySQL, ensuring efficiency and robustness in any project. I have solid experience in designing secure and robust backend architectures, always focused on offering innovative solutions that meet the needs of clients and users.
 
-Encaro cada desafio como uma oportunidade de aprendizado e evolução. Estou constantemente aprimorando minhas habilidades para desenvolver projetos que promovam a transformação digital e façam a diferença no mundo da tecnologia.
+I face each challenge as an opportunity for learning and evolution. I am constantly improving my skills to develop projects that promote digital transformation and make a difference in the technology world.
 
 
 ---
 
-Contato
+Contact
 
 <a href = "mailto:probertos717@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 
 
 ---
 
-Tecnologias e ferramentas que mais uso.
+Technologies and tools I use the most.
 
 <br><br><br>
 
@@ -132,11 +132,11 @@ Tecnologias e ferramentas que mais uso.
 <br><br>  
 ---
 
-Estatísticas
+Statistics
 
 
 
 
 ---
 
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&text=Calmo&nbsp;e&nbsp;Focado&fontColor=c9c9c9&fontAlign=5&fontSize=10&fontAlignY=90&color=0:ffffff,100:999999&height=120&section=footer"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&text=Calm&nbsp;and&nbsp;Focused&fontColor=c9c9c9&fontAlign=5&fontSize=10&fontAlignY=90&color=0:ffffff,100:999999&height=120&section=footer"/>
