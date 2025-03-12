@@ -14,14 +14,14 @@ I face each challenge as an opportunity for learning and evolution. I am constan
 
 ---
 
-#Contact
+<h3>Contact</h3>
 
 <a href = "mailto:probertos717@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 
 
 ---
 
-#Technologies and tools I use the most.
+<h3>Technologies and tools I use the most.</h3>
 
 <br><br><br>
 
@@ -133,7 +133,7 @@ I face each challenge as an opportunity for learning and evolution. I am constan
 
 ---
 
-Statistics
+<h3>Statistics</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prdsilva80&layout=compact&theme=dark)](https://github.com/Prdsilva80/github-readme-stats)
 
