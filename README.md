@@ -129,12 +129,14 @@ Technologies and tools I use the most.
     </td>  
     <tr>  
 </table>  
-<br><br>  
+<br><br>
+
 ---
 
 Statistics
 
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Prdsilva80&show_icons=true&theme=dark)](https://github.com/Prdsilva80/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prdsilva80&layout=compact&theme=dark)](https://github.com/Prdsilva80/github-readme-stats)
 
 
 ---
