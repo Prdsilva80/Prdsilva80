@@ -14,14 +14,14 @@ I face each challenge as an opportunity for learning and evolution. I am constan
 
 ---
 
-Contact
+#Contact
 
 <a href = "mailto:probertos717@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 
 
 ---
 
-Technologies and tools I use the most.
+#Technologies and tools I use the most.
 
 <br><br><br>
 
