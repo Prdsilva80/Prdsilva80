@@ -14,63 +14,53 @@ My expertise also includes databases such as PostgreSQL and MySQL, ensuring effi
 
 I see every challenge as an opportunity for learning and growth. I am constantly improving my skills to develop projects that drive digital transformation and make a difference in the world of technology.
 
-
-
-
- 
- ---
+---
  
 
- ### Contact 
+### Contact 
  
-<a href = "mailto:probertos717@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+<a href = "mailto:probertos717@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
- ---
- 
- ## Technologies and tools I use the most.
- <br><br><br>
- 
+---
+
+## Technologies and tools I use the most.
+<br><br><br>
+
 <table align="center" height="490px">
+  <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=python" width="65px" alt="python icon"/><br>
-      <sub>
-        <b>
-          <pre>Python</pre>
-        </b>
-      </sub>
+      <sub><b><pre>Python</pre></b></sub>
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=flask" width="65px" alt="flask icon"/><br>
-      <sub>
-        <b>
-          <pre>Flask</pre>
-        </b>
-      </sub>
+      <sub><b><pre>Flask</pre></b></sub>
     </td>
-        <td align="center">
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="nodejs icon"/><br>
-      <sub>
-        <b>
-          <pre>Node.js</pre>
-        </b>
-      </sub>
+      <sub><b><pre>Node.js</pre></b></sub>
     </td>
     <td align="center" width="100px;">
       <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="javascript icon"/><br>
-      <sub>
-        <b>
-          <pre>&emsp;Javascript&emsp;</pre>
-        </b>
-      </sub>
+      <sub><b><pre>&emsp;JavaScript&emsp;</pre></b></sub>
     </td>
   </tr>
   <tr>
-  <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="typescript icon"/><br>
-      <sub>
-        <b>
-          <pre>TypeScript</pre>
-        </b>
-      </sub>
+      <sub><b><pre>TypeScript</pre></b></sub>
     </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgres" width="65px" alt="postgres icon"/><br>
+      <sub><b><pre>PostgreSQL</pre></b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="mysql icon"/><br>
+      <sub><b><pre>MySQL</pre></b></sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" width="65px" alt="git icon"/><br>
+      <sub><b><pre>Git</pre></b></sub>
+    </td>
+  </tr>
+</table>
