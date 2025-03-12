@@ -30,37 +30,45 @@ I see every challenge as an opportunity for learning and growth. I am constantly
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=python" width="65px" alt="python icon"/><br>
-      <sub><b><pre>Python</pre></b></sub>
+      <sub>
+        <b>
+          <pre>Python</pre>
+        </b>
+      </sub>
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=flask" width="65px" alt="flask icon"/><br>
-      <sub><b><pre>Flask</pre></b></sub>
+      <sub>
+        <b>
+          <pre>Flask</pre>
+        </b>
+      </sub>
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="nodejs icon"/><br>
-      <sub><b><pre>Node.js</pre></b></sub>
+      <sub>
+        <b>
+          <pre>Node.js</pre>
+        </b>
+      </sub>
     </td>
     <td align="center" width="100px;">
       <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="javascript icon"/><br>
-      <sub><b><pre>&emsp;JavaScript&emsp;</pre></b></sub>
+      <sub>
+        <b>
+          <pre>&emsp;JavaScript&emsp;</pre>
+        </b>
+      </sub>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="typescript icon"/><br>
-      <sub><b><pre>TypeScript</pre></b></sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=postgres" width="65px" alt="postgres icon"/><br>
-      <sub><b><pre>PostgreSQL</pre></b></sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="mysql icon"/><br>
-      <sub><b><pre>MySQL</pre></b></sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git" width="65px" alt="git icon"/><br>
-      <sub><b><pre>Git</pre></b></sub>
+      <sub>
+        <b>
+          <pre>TypeScript</pre>
+        </b>
+      </sub>
     </td>
   </tr>
 </table>
