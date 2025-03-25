@@ -96,26 +96,26 @@ I face each challenge as an opportunity for learning and evolution. I am constan
    <tr>  
    <tr>  
     <td align="center">  
-      <img src="https://skillicons.dev/icons?i=postgresql" width="65px" alt="postgresql icon"/><br>  
+      <img src="https://skillicons.dev/icons?i=aws" width="65px" alt="aws icon"/><br>  
       <sub>  
         <b>  
-          <pre>PostgreSQL</pre>  
+          <pre>AWS Cloud</pre>  
         </b>  
       </sub>  
     </td>  
     <td align="center">  
-      <img src="https://skillicons.dev/icons?i=sqlite" width="65px" alt="sqlite icon"/><br>  
+      <img src="https://skillicons.dev/icons?i=docker" width="65px" alt="docker icon"/><br>  
       <sub>  
         <b>  
-          <pre>SQLite</pre>  
+          <pre>Docker</pre>  
         </b>  
       </sub>  
     </td>  
    <td align="center">  
-      <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="mysql icon"/><br>  
+      <img src="https://skillicons.dev/icons?i=postgresql" width="65px" alt="postgresql icon"/><br>  
       <sub>  
         <b>  
-          <pre>MySQL</pre>  
+          <pre>PostgreSQL</pre>  
         </b>  
       </sub>  
     </td>  
