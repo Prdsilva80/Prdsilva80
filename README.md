@@ -7,9 +7,11 @@
 <p align="center">  
       <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Backend%20Developer%20;Always%20Learning%20new%20things!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>  
     </p>  
-Passionate about technological innovation and driven by a relentless curiosity. I master a wide range of modern technologies, including Python, Django, Flask, FastAPI, Node.js, JavaScript, TypeScript, Express, and SQLAlchemy, as well as ORMs like Prisma. With these tools, I am able to create complete, scalable, and high-performance solutions for backend applications. My expertise also includes databases such as PostgreSQL and MongoDB, ensuring efficiency and robustness in any project.
+Passionate about technological innovation and driven by a relentless curiosity. I master a wide range of modern technologies, including Python, Django, Flask, FastAPI, Node.js, JavaScript, TypeScript, Express, and SQLAlchemy, as well as ORMs like Prisma. I also work with Nest.js, a powerful framework for building scalable and maintainable server-side applications with TypeScript. Additionally, I explore systems programming and high-performance backend solutions using Rust, often leveraging frameworks like Actix to build fast and reliable web services.
 
-Additionally, I have experience with AWS Cloud, leveraging its services to build scalable, secure, and resilient applications. I also work with Docker to containerize applications, ensuring portability, consistency, and ease of deployment across different environments.
+With these tools, I am able to create complete, scalable, and high-performance solutions for backend applications. My expertise also includes databases such as PostgreSQL and MongoDB, ensuring efficiency and robustness in any project.
+
+Additionally, I have experience with AWS Cloud, leveraging its services to build scalable, secure, and resilient applications. I also work with Docker to containerize applications, ensuring portability, consistency, and ease of deployment across different environments. I implement Continuous Integration and Continuous Deployment (CI/CD) pipelines to automate testing and deployment processes, enabling faster development cycles and more reliable releases.
 
 I have solid experience in designing secure and robust backend architectures, always focused on offering innovative solutions that meet the needs of clients and users. I face each challenge as an opportunity for learning and evolution, constantly improving my skills to develop projects that promote digital transformation and make a difference in the technology world.
 
