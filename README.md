@@ -5,7 +5,7 @@
  </h3>  I am Paulo Roberto,
 
 <p align="center">  
-      <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software %20Engineer%20(Backend)%20;Always%20Learning%20new%20things!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>  
+      <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer%20(Backend)%20;Always%20Learning%20new%20things!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>  
     </p>  
 Passionate about technological innovation and driven by a relentless curiosity. I master a wide range of modern technologies, including Python, Django, Flask, FastAPI, Node.js, JavaScript, TypeScript, Express, and SQLAlchemy, as well as ORMs like Prisma. I also work with Nest.js, a powerful framework for building scalable and maintainable server-side applications with TypeScript. Additionally, I explore systems programming and high-performance backend solutions using Rust, often leveraging frameworks like Actix to build fast and reliable web services.
 
