@@ -7,14 +7,14 @@
 <p align="center">  
       <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer%20(Backend)%20;Always%20Learning%20new%20things!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>  
     </p>  
-Passionate about technological innovation and driven by a relentless curiosity. I master a wide range of modern technologies, including Python, Django, Flask, FastAPI, Node.js, JavaScript, TypeScript, Express, and SQLAlchemy, as well as ORMs like Prisma. I also work with Nest.js, a powerful framework for building scalable and maintainable server-side applications with TypeScript. Additionally, I explore systems programming and high-performance backend solutions using Rust, often leveraging frameworks like Actix to build fast and reliable web services.
 
-With these tools, I am able to create complete, scalable, and high-performance solutions for backend applications. My expertise also includes databases such as PostgreSQL and MongoDB, ensuring efficiency and robustness in any project.
+Passionate about technological innovation and driven by relentless curiosity, I am a Senior Software Engineer with deep expertise in building robust, scalable, and high-performance backend systems. My technical stack spans multiple ecosystems, including Java (Spring Boot), Python (Django, Flask, FastAPI), and JavaScript/TypeScript (Node.js, Express, NestJS). I also work extensively with modern ORMs such as Prisma and SQLAlchemy, ensuring clean architecture and efficient data management across complex applications.
 
-Additionally, I have experience with AWS Cloud, leveraging its services to build scalable, secure, and resilient applications. I also work with Docker to containerize applications, ensuring portability, consistency, and ease of deployment across different environments. I implement Continuous Integration and Continuous Deployment (CI/CD) pipelines to automate testing and deployment processes, enabling faster development cycles and more reliable releases.
+My experience covers relational and non-relational databases, including PostgreSQL and MongoDB, where I design optimized schemas and implement advanced query strategies for large-scale data operations.
 
-I have solid experience in designing secure and robust backend architectures, always focused on offering innovative solutions that meet the needs of clients and users. I face each challenge as an opportunity for learning and evolution, constantly improving my skills to develop projects that promote digital transformation and make a difference in the technology world.
+Beyond coding, I have strong experience in cloud infrastructure and DevOps practices, particularly on AWS Cloud, where I design and deploy scalable, resilient, and secure applications. I use Docker for containerization and implement CI/CD pipelines to automate integration, testing, and deployment workflows, enabling consistent delivery and shorter release cycles.
 
+I take pride in designing secure, modular, and future-proof architectures that align with business goals and user needs. Each challenge is an opportunity to push boundaries, refine engineering practices, and deliver impactful digital solutions. My mission is to craft technology that drives innovation, empowers teams, and contributes meaningfully to digital transformation.
 
 
 
@@ -33,6 +33,22 @@ I have solid experience in designing secure and robust backend architectures, al
 
 <table align="center" height="490px">  
     <td align="center">  
+      <img src="https://skillicons.dev/icons?i=java" width="65px" alt="java icon"/><br>  
+      <sub>  
+        <b>  
+          <pre>Java</pre>  
+        </b>  
+      </sub>  
+    </td>  
+    <td align="center">  
+      <img src="https://skillicons.dev/icons?i=spring" width="65px" alt="spring icon"/><br>  
+      <sub>  
+        <b>  
+          <pre>Spring Boot</pre>  
+        </b>  
+      </sub>  
+    </td>  
+        <td align="center">  
       <img src="https://skillicons.dev/icons?i=python" width="65px" alt="python icon"/><br>  
       <sub>  
         <b>  
@@ -40,6 +56,17 @@ I have solid experience in designing secure and robust backend architectures, al
         </b>  
       </sub>  
     </td>  
+    <td align="center" width="100px;">  
+      <img src="https://skillicons.dev/icons?i=django" width="65px" alt="django icon"/><br>  
+      <sub>  
+        <b>  
+          <pre>&emsp;Django&emsp;</pre>  
+        </b>  
+      </sub>  
+    </td>  
+  </tr>  
+  <tr>  
+  <tr>  
     <td align="center">  
       <img src="https://skillicons.dev/icons?i=flask" width="65px" alt="flask icon"/><br>  
       <sub>  
@@ -48,7 +75,7 @@ I have solid experience in designing secure and robust backend architectures, al
         </b>  
       </sub>  
     </td>  
-        <td align="center">  
+    <td align="center">  
       <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="nodejs icon"/><br>  
       <sub>  
         <b>  
@@ -56,18 +83,7 @@ I have solid experience in designing secure and robust backend architectures, al
         </b>  
       </sub>  
     </td>  
-    <td align="center" width="100px;">  
-      <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="javascript icon"/><br>  
-      <sub>  
-        <b>  
-          <pre>&emsp;Javascript&emsp;</pre>  
-        </b>  
-      </sub>  
-    </td>  
-  </tr>  
-  <tr>  
-  <tr>  
-    <td align="center">  
+   <td align="center">  
       <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="typescript icon"/><br>  
       <sub>  
         <b>  
@@ -75,37 +91,21 @@ I have solid experience in designing secure and robust backend architectures, al
         </b>  
       </sub>  
     </td>  
-    <td align="center">  
-      <img src="https://skillicons.dev/icons?i=express" width="65px" alt="express icon"/><br>  
-      <sub>  
-        <b>  
-          <pre>Express</pre>  
-        </b>  
-      </sub>  
-    </td>  
    <td align="center">  
-      <img src="https://skillicons.dev/icons?i=jest" width="65px" alt="jest icon"/><br>  
+      <img src="https://skillicons.dev/icons?i=nest" width="65px" alt="nest icon"/><br>  
       <sub>  
         <b>  
-          <pre>Jest</pre>  
-        </b>  
-      </sub>  
-    </td>  
-   <td align="center">  
-      <img src="https://skillicons.dev/icons?i=prisma" width="65px" alt="prisma icon"/><br>  
-      <sub>  
-        <b>  
-          <pre>&emsp;Prisma ORM&emsp;</pre>  
+          <pre>&emsp;Nest.js&emsp;</pre>  
         </b>  
       </sub>  
     </td>  
    <tr>  
    <tr>  
     <td align="center">  
-      <img src="https://skillicons.dev/icons?i=aws" width="65px" alt="aws icon"/><br>  
+      <img src="https://skillicons.dev/icons?i=linux" width="65px" alt="linux icon"/><br>  
       <sub>  
         <b>  
-          <pre>AWS Cloud</pre>  
+          <pre>Linux</pre>  
         </b>  
       </sub>  
     </td>  
@@ -126,10 +126,10 @@ I have solid experience in designing secure and robust backend architectures, al
       </sub>  
     </td>  
    <td align="center">  
-      <img src="https://skillicons.dev/icons?i=mongodb" width="65px" alt="mongodb icon"/><br>  
+      <img src="https://skillicons.dev/icons?i=mysql" width="65px" alt="mysql icon"/><br>  
       <sub>  
         <b>  
-          <pre>&emsp;MongoDB&emsp;</pre>  
+          <pre>&emsp;MySQL&emsp;</pre>  
         </b>  
       </sub>  
     </td>  
