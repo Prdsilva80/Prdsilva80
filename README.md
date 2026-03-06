@@ -138,10 +138,10 @@ Most of the work you see here comes from curiosity and the pleasure of building 
 
 <h3>Statistics</h3>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prdsilva80&theme=github_dark" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prdsilva80&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prdsilva80&theme=github_dark" />
+- Public repositories: [View on GitHub](https://github.com/Prdsilva80?tab=repositories)
+- Profile activity: [View contributions](https://github.com/Prdsilva80)
+- Most used languages: [View repositories by language](https://github.com/Prdsilva80?tab=repositories)
+- Followers: [View followers](https://github.com/Prdsilva80?tab=followers)
 
 ---
 
