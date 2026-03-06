@@ -138,9 +138,10 @@ Most of the work you see here comes from curiosity and the pleasure of building 
 
 <h3>Statistics</h3>
 
-![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prdsilva80&show_icons=true&theme=dark)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prdsilva80&theme=github_dark" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prdsilva80&layout=compact&theme=dark)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prdsilva80&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prdsilva80&theme=github_dark" />
 
 ---
 
