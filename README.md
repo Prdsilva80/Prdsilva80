@@ -5,25 +5,22 @@
  </h3>  I am Paulo Roberto,
 
 <p align="center">  
-      <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer%20(Backend)%20;Always%20Learning%20new%20things!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>  
-    </p>  
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&height=45&lines=Technology+enthusiast;Coding+as+a+hobby;Exploring+technology+to+help+people" />
+</p>  
 
-Passionate about technological innovation and driven by relentless curiosity, I am a Senior Software Engineer with deep expertise in building robust, scalable, and high-performance backend systems. My technical stack spans multiple ecosystems, including Java (Spring Boot), Python (Django, Flask, FastAPI), and JavaScript/TypeScript (Node.js, Express, NestJS). I also work extensively with modern ORMs such as Prisma and SQLAlchemy, ensuring clean architecture and efficient data management across complex applications.
+I enjoy exploring technology as a hobby and as a way to experiment with ideas that can help people. For me, coding is not only about building systems — it is about curiosity, learning, and seeing how technology can make useful things possible.
 
-My experience covers relational and non-relational databases, including PostgreSQL and MongoDB, where I design optimized schemas and implement advanced query strategies for large-scale data operations.
+Here on GitHub you will find projects where I experiment with backend technologies such as Java (Spring Boot), Python (Django, Flask, FastAPI), and JavaScript/TypeScript (Node.js, Express, NestJS). These projects are mostly personal explorations where I try to understand how software can solve practical problems and create tools that may be useful for others.
 
-Beyond coding, I have strong experience in cloud infrastructure and DevOps practices, particularly on AWS Cloud, where I design and deploy scalable, resilient, and secure applications. I use Docker for containerization and implement CI/CD pipelines to automate integration, testing, and deployment workflows, enabling consistent delivery and shorter release cycles.
+I often work with databases like PostgreSQL and MongoDB, designing data structures and building applications that are reliable and scalable. I also like exploring infrastructure tools such as Docker and cloud environments to better understand how modern systems run in the real world.
 
-I take pride in designing secure, modular, and future-proof architectures that align with business goals and user needs. Each challenge is an opportunity to push boundaries, refine engineering practices, and deliver impactful digital solutions. My mission is to craft technology that drives innovation, empowers teams, and contributes meaningfully to digital transformation.
-
-
+Most of the work you see here comes from curiosity and the pleasure of building things with technology. I truly enjoy experimenting, learning, and sharing ideas that show how technology can positively impact people's lives.
 
 ---
 
 <h3>Contact</h3>
 
 <a href = "mailto:probertos717@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-
 
 ---
 
@@ -141,8 +138,9 @@ I take pride in designing secure, modular, and future-proof architectures that a
 
 <h3>Statistics</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prdsilva80&layout=compact&theme=dark)](https://github.com/Prdsilva80/github-readme-stats)
+![Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prdsilva80&show_icons=true&theme=dark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prdsilva80&layout=compact&theme=dark)
 
 ---
 
